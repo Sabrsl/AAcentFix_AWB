@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- net481 pour production AWB -->
+    <TargetFramework>net481</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <RootNamespace>AAccentFix.Awb</RootNamespace>
+    <AssemblyName>AAccentFix.Awb</AssemblyName>
+    <OutputType>Library</OutputType>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+
+  <!-- Plus de référence à AAccentFix.Core - tout est fusionné dans AAccentFixPlugin.cs -->
+
+  <!-- IMPORTANT: Pour compiler ce plugin AWB, vous devez ajouter une référence à WikiFunctions.dll
+       qui se trouve dans votre installation d'AutoWikiBrowser.
+       1. Ouvrez ce projet dans Visual Studio
+       2. Clic droit sur le projet AAccentFix.Awb > Ajouter > Référence
+       3. Parcourir et sélectionner WikiFunctions.dll depuis votre dossier d'installation AWB
+       4. Décommentez la référence ci-dessous après l'avoir ajoutée
+  <ItemGroup>
+    <Reference Include="WikiFunctions">
+      <HintPath>..\..\..\WikiFunctions.dll</HintPath>
+    </Reference>
+  </ItemGroup> -->
+
+</Project>

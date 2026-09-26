@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <!-- net8.0 pour compilation de test -->
+    <TargetFramework>net8.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <RootNamespace>AAccentFix.Core</RootNamespace>
+    <AssemblyName>AAccentFix.Core</AssemblyName>
+  </PropertyGroup>
+
+</Project>
