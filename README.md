@@ -8,25 +8,25 @@ Correction des locutions suivantes :
 
 `a` → `à` dans les expressions :
 
-- a partir de/du/des
-- a travers (le/la/les)
-- a cause de
-- a propos de
-- a l'aide de
-- a l'origine de
-- a l'egard de
-- a l'encontre de
-- a cote de
-- a dessein
-- a defaut de
-- a destination de
-- a domicile
-- a distance
-- a droite
-- a gauche
-- a nouveau
-- a long/court/moyen terme
-- a peu pres
+- `a` partir de/du/des
+- `a` travers (le/la/les)
+- `a` cause de
+- `a` propos de
+- `a` l'aide de
+- `a` l'origine de
+- `a` l'egard de
+- `a` l'encontre de
+- `a` cote de
+- `a` dessein
+- `a` defaut de
+- `a` destination de
+- `a` domicile
+- `a` distance
+- `a` droite
+- `a` gauche
+- `a` nouveau
+- `a` long/court/moyen terme
+- `a` peu pres
 
 ## Zones protégées
 

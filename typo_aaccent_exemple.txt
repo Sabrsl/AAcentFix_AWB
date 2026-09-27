@@ -1,48 +1,48 @@
-insource:"a cote de"
+insource:"`a` cote de"
 
-Correction d'accents : a → à
+Correction d'accents : `a` → à
 
-A001  a partir de       → à partir de
-A002  a travers         → à travers
-A003  a cause de        → à cause de
-A004  a propos de       → à propos de
-A005  a l'aide          → à l'aide
-A006  a l'origine       → à l'origine
-A007  a l'egard         → à l'égard
-A008  a l'encontre      → à l'encontre
-A009  a cote            → à côté
-A010  a droite          → à droite
-A011  a gauche          → à gauche
-A012  a defaut          → à défaut
-A013  a destination     → à destination
-A014  a domicile        → à domicile
-A015  a distance        → à distance
-A016  a nouveau         → à nouveau
-A017  a long terme      → à long terme
-A018  a court terme     → à court terme
-A019  a moyen terme     → à moyen terme
-A020  a dessein         → à dessein
+A001  `a` partir de       → à partir de
+A002  `a` travers         → à travers
+A003  `a` cause de        → à cause de
+A004  `a` propos de       → à propos de
+A005  `a` l'`a`ide          → à l'aide
+A006  `a` l'origine       → à l'origine
+A007  `a` l'egard         → à l'égard
+A008  `a` l'encontre      → à l'encontre
+A009  `a` cote            → à côté
+A010  `a` droite          → à droite
+A011  `a` gauche          → à gauche
+A012  `a` defaut          → à défaut
+A013  `a` destination     → à destination
+A014  `a` domicile        → à domicile
+A015  `a` distance        → à distance
+A016  `a` nouveau         → à nouveau
+A017  `a` long terme      → à long terme
+A018  `a` court terme     → à court terme
+A019  `a` moyen terme     → à moyen terme
+A020  `a` dessein         → à dessein
 
-insource:"a partir de"
-insource:"a partir du"
-insource:"a partir des"
-insource:"a partir d'"
-insource:"a travers"
-insource:"a cause de"
-insource:"a propos de"
-insource:"a l'aide"
-insource:"a l'origine"
-insource:"a l'egard"
-insource:"a l'encontre"
-insource:"a cote"
-insource:"a droite"
-insource:"a gauche"
-insource:"a defaut"
-insource:"a destination"
-insource:"a domicile"
-insource:"a distance"
-insource:"a nouveau"
-insource:"a long terme"
-insource:"a court terme"
-insource:"a moyen terme"
-insource:"a dessein"
+insource:"`a` partir de"
+insource:"`a` partir du"
+insource:"`a` partir des"
+insource:"`a` partir d'"
+insource:"`a` travers"
+insource:"`a` cause de"
+insource:"`a` propos de"
+insource:"`a` l'`a`ide"
+insource:"`a` l'origine"
+insource:"`a` l'egard"
+insource:"`a` l'encontre"
+insource:"`a` cote"
+insource:"`a` droite"
+insource:"`a` gauche"
+insource:"`a` defaut"
+insource:"`a` destination"
+insource:"`a` domicile"
+insource:"`a` distance"
+insource:"`a` nouveau"
+insource:"`a` long terme"
+insource:"`a` court terme"
+insource:"`a` moyen terme"
+insource:"`a` dessein"
