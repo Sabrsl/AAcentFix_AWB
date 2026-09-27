@@ -1,4 +1,4 @@
-insource:"a côté"
+insource:"a côté de"
 
 Correction d'accents : « a » → « à »
 
