@@ -5,25 +5,28 @@ Plugin AutoWikiBrowser corrigeant automatiquement les fautes d'accent sur la pr�
 ## Fonctionnalités
 
 Correction des locutions suivantes :
-- à partir de/du/des
-- à travers (le/la/les)
-- à cause de
-- à propos de
-- à l'aide de
-- à l'origine de
-- à l'égard de
-- à l'encontre de
-- à côté de
-- à dessein
-- à défaut de
-- à destination de
-- à domicile
-- à distance
-- à droite
-- à gauche
-- à nouveau
-- à long/court/moyen terme
-- à peu près
+
+`a` → `à` dans les expressions :
+
+- a partir de/du/des
+- a travers (le/la/les)
+- a cause de
+- a propos de
+- a l'aide de
+- a l'origine de
+- a l'egard de
+- a l'encontre de
+- a cote de
+- a dessein
+- a defaut de
+- a destination de
+- a domicile
+- a distance
+- a droite
+- a gauche
+- a nouveau
+- a long/court/moyen terme
+- a peu pres
 
 ## Zones protégées
 

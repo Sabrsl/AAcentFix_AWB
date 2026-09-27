@@ -1,6 +1,6 @@
-insource:"a côté de"
+insource:"a cote de"
 
-Correction d'accents : « a » → « à »
+Correction d'accents : a → à
 
 A001  a partir de       → à partir de
 A002  a travers         → à travers
@@ -8,12 +8,12 @@ A003  a cause de        → à cause de
 A004  a propos de       → à propos de
 A005  a l'aide          → à l'aide
 A006  a l'origine       → à l'origine
-A007  a l'égard         → à l'égard
+A007  a l'egard         → à l'égard
 A008  a l'encontre      → à l'encontre
-A009  a côté            → à côté
+A009  a cote            → à côté
 A010  a droite          → à droite
 A011  a gauche          → à gauche
-A012  a défaut          → à défaut
+A012  a defaut          → à défaut
 A013  a destination     → à destination
 A014  a domicile        → à domicile
 A015  a distance        → à distance
@@ -32,12 +32,12 @@ insource:"a cause de"
 insource:"a propos de"
 insource:"a l'aide"
 insource:"a l'origine"
-insource:"a l'égard"
+insource:"a l'egard"
 insource:"a l'encontre"
-insource:"a côté"
+insource:"a cote"
 insource:"a droite"
 insource:"a gauche"
-insource:"a défaut"
+insource:"a defaut"
 insource:"a destination"
 insource:"a domicile"
 insource:"a distance"
