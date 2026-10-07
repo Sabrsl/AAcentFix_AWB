@@ -93,9 +93,8 @@ dotnet test AAccentFix.Tests
 Procédure recommandée :
 1. Tester sur 10 pages maximum
 2. Vérifier chaque diff manuellement
-3. Élargir progressivement (50 → 100 pages)
-4. Vérifier les règles WP:BOT pour usage à grande échelle
-
+3. Élargir progressivement
+   
 ## Personnalisation
 
 Les règles de correction sont définies dans `AAccentFix.Core/RuleSet.cs`.
